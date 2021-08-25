@@ -1,4 +1,5 @@
 <p align="center"><img width="400" alt="portfolio_view" src="./IDM.Example.png"></p>
+
 # Ionic Density Map generator
 
 Author: Eddy BARRAUD
