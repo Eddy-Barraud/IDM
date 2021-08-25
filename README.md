@@ -1,4 +1,4 @@
-<p align="center"><img width="400" alt="portfolio_view" src="./Example/14.12.npt_9.pairdist.density.png"></p>
+<p align="center"><img width="600" alt="portfolio_view" src="./Example/14.12.npt_9.pairdist.density.png"></p>
 
 # Ionic Density Map generator
 
