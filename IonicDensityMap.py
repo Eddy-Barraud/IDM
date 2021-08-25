@@ -1,3 +1,4 @@
+# pyinstaller --onefile -w ".\IonicDensityMap.py"
 import os , re
 import numpy as np
 import pandas as pd

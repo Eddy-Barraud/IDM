@@ -1,4 +1,4 @@
-<p align="center"><img width="400" alt="portfolio_view" src="./IDM.Example.png"></p>
+<p align="center"><img width="400" alt="portfolio_view" src="./Example/14.12.npt_9.pairdist.density.png"></p>
 
 # Ionic Density Map generator
 
@@ -6,7 +6,9 @@ Author: Eddy BARRAUD
 
 Contact: <eddy.barraud@outlook.fr>
 
-Public access: [https://github.com/eddydu44/IDM](https://github.com/eddydu44/IDM)
+Public access: [https://github.com/Eddy-Barraud/IDM](https://github.com/Eddy-Barraud/IDM)
+
+Requirements : numpy pandas matplotlib seaborn mdtraj
 
 This app is converting pairdist XVG files to Ionic Density Maps (IDM).
 The python script behind the app is using [Seaborn](https://github.com/mwaskom/seaborn) and [MDTraj](https://github.com/mdtraj/mdtraj) libraries.
@@ -27,7 +29,9 @@ When asked, enter a group that contains the protein AND the ions, i.e., a group 
 
 3. Copy the 12.npt_9.pairdist.xvg and the sys.gro files to the same folder as the app IDM.Gen.exe
 
-4. Execute the app.
+4. Run the script.
+
+`python IonicDensityMap.py`
 
 It will convert each XVG file to a map named filename.density.png, only is the map file is not already present.
 
