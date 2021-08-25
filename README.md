@@ -11,7 +11,7 @@ Public access: [https://github.com/Eddy-Barraud/IDM](https://github.com/Eddy-Bar
 Requirements : numpy pandas matplotlib seaborn mdtraj
 
 This app is converting pairdist XVG files to Ionic Density Maps (IDM).
-The python script behind the app is using [Seaborn](https://github.com/mwaskom/seaborn) and [MDTraj](https://github.com/mdtraj/mdtraj) libraries.
+The python script is using [Seaborn](https://github.com/mwaskom/seaborn) and [MDTraj](https://github.com/mdtraj/mdtraj) libraries.
 
 IDM represents the normalized probability to find an ion at a given distance of each protein residue along the simulation time.
 
